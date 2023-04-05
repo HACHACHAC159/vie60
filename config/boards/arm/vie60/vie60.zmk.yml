@@ -1,0 +1,13 @@
+file_format: "1"
+id: vie60
+name: vie60
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+  - encoder
+outputs:
+  - usb
+  - ble
+url: none
