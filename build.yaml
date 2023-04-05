@@ -12,5 +12,4 @@
 #     shield: reviung41
 #
 ---
-include:
-  - board: vie60
+board: [ "vie60" ]
