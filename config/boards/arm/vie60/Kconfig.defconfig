@@ -7,7 +7,7 @@ config BOARD
 	default "vie60"
 
 config ZMK_KEYBOARD_NAME
-	default "VIE60 Bluetooth"
+	default "Mystery60_52840"
 
 if USB
 
