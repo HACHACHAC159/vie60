@@ -31,7 +31,4 @@ config ZMK_USB
 config ZMK_EXT_POWER
 	default y
 
-config ZMK_BATTERY_VOLTAGE_DIVIDER
-	default y
-
 endif # BOARD_VIE60
